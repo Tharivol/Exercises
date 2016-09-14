@@ -22,7 +22,7 @@ var rocket = document.createElement('div')
 rocket.style.left   = 50vw;
 rocket.style.bottom = 0vh;
 ```
-- The initial angle and velocity of the rocket should be set randomly within a predifined range, such that if multiple rockets are launched, they will not follow the same trajectory, but they should all stay visible on the page.
+- The initial angle and velocity of the rocket should be set randomly within a predefined range, such that if multiple rockets are launched, they will not follow the same trajectory, but they should all stay visible on the page.
 - The rocket should spin at a random speed in a random direction.
 - Once the rocket stops ascending (i.e. its vertical velocity is 0) the rocket should appear to 'explode'. You can achieve the explosion effect by removing the rocket from the DOM, and in its place, insert a random number of divs (5-10 is a good amount) to represent the particles from the explosion.
 - Like the rocket itself, the particles should be launched upwards with a random angle and velocity, seemingly affected by gravity, and they should spin at a random speed in a random direction.
