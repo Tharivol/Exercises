@@ -12,10 +12,10 @@ Build an app that leverages [https://www.npmjs.com/package/client-sessions](clie
 
 #### Part I - Setup
 - Copy the jail starter code into your own project folder and install dependencies
-- Run a `mongorestore` command on the dump folder. This will seed your database with the appropriate users. Make sure you check the database name in `app.js`!
+- Run a `mongorestore` command on the dump folder. This will seed your database with the appropriate users. Make sure you check the database name in `server.js`!
 
 #### Part II - Sessions
-- Look at the **client-sessions** documentation to learn how to initialize sessions (place the initialization code in `app.js`)
+- Look at the **client-sessions** documentation to learn how to initialize sessions (place the initialization code in `server.js`)
 - When a user logs in by submitting the login form, store the **session** (`req.body`) in `req.session`.
 - For all future requests, the session can be read by the server from that user's cookies (until that user erases his/her cookies, or that session expires).
 

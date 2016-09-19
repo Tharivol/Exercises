@@ -7,11 +7,14 @@
 }
 
 .jail-user {
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
     display: inline-block;
     margin: 20px;
     padding: 10px;
-    border-radius: 10px;
-    border: 2px solid black;
+    text-align: center;
+    width: 150px;
 }
 .text-center {
     text-align: center;
@@ -30,6 +33,7 @@
     display: flex;
     justify-content: space-between;
 }*/
+
 .room {
     height: 200px;
     width: 300px;

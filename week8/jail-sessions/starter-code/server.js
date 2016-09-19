@@ -32,49 +32,6 @@ var User = mongoose.model('user', mongoose.Schema({
     role     : { type: String, required: true }
 }));
 
-// hash passwords before saving a new user
-UserSchema.pre('save', hashPassword);
-
-function hashPassword(next) { // don't use an arrow function here, we need the scope!
-    var user = this; // this is why we can't use an arrow function here, again we need the scope
-
-    // only hash the password if it has been modified (for updating users)
-    if( !user.isModified('password') ) {
-        return next();
-    }
-    // generate a salt value to encrypt our password
-    bcrypt.genSalt(SALTY_BITS, (saltErr, salt) => { // used to guarentee uniqueness
-        if(saltErr) {
-            return next(saltErr);
-        }
-        console.info('SALT generated!'.bold.yellow, salt);
-
-        // now let's hash this bad boy!
-        bcrypt.hash(user.password, salt, (hashErr, hashedPassword) => {
-            if( hashErr ) {
-                return next(hashErr);
-            }
-            // over-ride the plain text password with the hashed one
-            user.password = hashedPassword;
-            next();
-        });
-    });
-}
-
-app.post('/signup', (req, res) => {
-    var newUser = new User(req.body);
-
-    newUser.save((saveErr, user) => {
-        if ( saveErr ) {
-            // @TODO: send down an error response
-            res.end();
-        } else {
-            // @TODO: add the user to the session object
-            res.end();
-        }
-    });
-});
-
 /*
     app.get('/example', protected, (req, res) => { res.end(); });
 
@@ -90,26 +47,30 @@ app.post('/signup', (req, res) => {
 app.get('/', (req, res) => {
     res.redirect('/html/login.html');
 });
-app.get('/jail', (req, res, next) => {
+app.get('/html/jail.html', (req, res, next) => {
     next();
 });
-app.get('/lobby', (req, res, next) => {
+app.get('/html/lobby.html', (req, res, next) => {
     next();
 });
-app.get('/visitors-lounge', (req, res, next) => {
+app.get('/html/visitors-lounge.html', (req, res, next) => {
     next();
 });
-app.get('/cafeteria', (req, res, next) => {
+app.get('/html/cafeteria.html', (req, res, next) => {
     next();
 });
-app.get('/wardens-office', (req, res, next) => {
+app.get('/html/wardens-office.html', (req, res, next) => {
     next();
 });
-app.get('/cell-e', (req, res, next) => {
+app.get('/html/cell-e.html', (req, res, next) => {
     next();
 });
-app.get('/cell-m', (req, res, next) => {
+app.get('/html/cell-m.html', (req, res, next) => {
     next();
+});
+
+app.post('/login', (req, res) => {
+    res.status(403).end();
 });
 
 // intentionally mounting the static middleware down here so that
