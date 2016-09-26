@@ -1,6 +1,17 @@
 Node Colors
 ==========
 
+Skills
+-------
+- Command Line Node
+- Exports / Require
+
+Background
+--------
+This exercise will be an introduction into writing a command line interface using node.  Many node modules (especially those that are globally installed) are actually command line interfaces and don't significantly affect the way an application runs.
+
+`module.exports` and `require` are also very important concepts in node.  They are how node files can communicate information to one another.  As your application grows, you will be splitting things out into more focused groups of files for organization and modularity.  MVC architecture is important server-side as well as client-side and will require you to have multiple files or groups of files.
+
 Objective
 -------
 Create a series of command line node scripts for working with colors.
