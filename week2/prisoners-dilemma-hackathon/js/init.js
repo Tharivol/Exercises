@@ -6,7 +6,21 @@ Winning algorithms tend to have these features:
 3 - non-greedy  : In a given 1-on-1 match, a successful algorithm tries to get the best possible score for itself, and does not necessarily try to 'beat' its opponent's score. 
 */
 
+var prisoners = []
 
+
+var shuffle = function(array) {
+  var i = 0
+    , j = 0
+    , temp = null
+
+  for (i = array.length - 1; i > 0; i -= 1) {
+    j = Math.floor(Math.random() * (i + 1))
+    temp = array[i]
+    array[i] = array[j]
+    array[j] = temp
+  }
+}
 
 // a 'match' is 100 iterations of the prisoners dilemma played between 2 players
 var playMatch = function(prisonerA, prisonerB){
@@ -15,7 +29,8 @@ var playMatch = function(prisonerA, prisonerB){
         // a 'game' is a single iteration of the prisoners dilemma between 2 players
         playGame(prisonerA, prisonerB, matchHistory)
     }
-
+    prisonerA.matchesPlayed++
+    prisonerB.matchesPlayed++
     console.log('match history? ', matchHistory)
     
 }
@@ -26,7 +41,7 @@ var playGame = function(prisonerA, prisonerB, matchHistory){
     var choices = {}
     choices[prisonerA.name] = prisonerA.play(matchHistory)
     choices[prisonerB.name] = prisonerB.play(matchHistory)
-    console.log('choices? ', choices)
+    console.debug('choices? ', choices)
 
     if ( choices[prisonerA.name] === 'cooperate' && choices[prisonerB.name] === 'cooperate' ) {
         prisonerA.score += -1
