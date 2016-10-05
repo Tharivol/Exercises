@@ -6,10 +6,11 @@ prisoners = prisoners.map(function(el){
     return el
 })
 
+console.log(prisoners)
 
 
 for ( var i = 0; i < 100; i++ ) {
-    
+
     // shuffle prisoners first so the sorting is more fair.
     shuffle(prisoners)
 
