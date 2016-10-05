@@ -1,11 +1,3 @@
-/*
-Iterated prisoners dilemma.
-Winning algorithms tend to have these features:
-1 - Nice        : Successful algorithms often start off being cooperative, until their opponent proves to be traitorous.
-2 - Retaliative : Successful algorithms will punish traitorous behaviour, even at their own expense. 
-3 - non-greedy  : In a given 1-on-1 match, a successful algorithm tries to get the best possible score for itself, and does not necessarily try to 'beat' its opponent's score. 
-*/
-
 var prisoners = []
 
 
