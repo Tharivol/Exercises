@@ -1,6 +1,9 @@
 Chunk!
 ========
 
+Difficulty - 2/5
+---------
+
 Objective
 ---------
 

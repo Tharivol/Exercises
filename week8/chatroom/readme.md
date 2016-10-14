@@ -1,6 +1,9 @@
 Chatroom
 ========
 
+Difficulty - 3/5
+---------
+
 Objective
 -------
 Build a real-time chat application using Socket.io

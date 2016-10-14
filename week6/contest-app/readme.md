@@ -1,6 +1,9 @@
 Contest App
 =======
 
+Difficulty - 4/5
+---------
+
 Objective
 ---------
 

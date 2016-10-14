@@ -1,5 +1,8 @@
 # Protractor Practice
 
+Difficulty - 4/5
+---------
+
 ### Objective
 Choose an exercise that you completed previously in this course. Write tests for that exercise using protractor to verify that you satisfied the requirements of that exercise.
 

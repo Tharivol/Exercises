@@ -1,6 +1,9 @@
 CSV to JSON
 ========
 
+Difficulty - 2/5
+---------
+
 Objective
 -----------
 Write a node script that converts a csv (comma-separated values) file to json.

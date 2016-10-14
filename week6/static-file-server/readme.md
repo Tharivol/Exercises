@@ -1,6 +1,9 @@
 Static File Server
 ============
 
+Difficulty - 3/5
+---------
+
 Objective
 --------
 Create a web server using NodeJS that can serve static files.

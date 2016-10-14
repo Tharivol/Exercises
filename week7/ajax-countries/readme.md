@@ -1,6 +1,9 @@
 Ajax Countries
 ===========
 
+Difficulty - 3/5
+---------
+
 Objective
 --------
 

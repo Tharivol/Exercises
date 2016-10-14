@@ -1,5 +1,8 @@
 # Jail Sessions
 
+Difficulty - 2/5
+---------
+
 ### Objective
 Build an app that leverages [https://www.npmjs.com/package/client-sessions](client-sessions) to create **sessions** for users to login. Then use those **sessions** with **middleware** to protect certain routes in the app.
 
