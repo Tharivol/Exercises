@@ -1,6 +1,9 @@
 Victims & Volunteers
 ==============
 
+Difficulty - 4/5
+---------
+
 Skills
 -------------
 - Javascript Fundamentals

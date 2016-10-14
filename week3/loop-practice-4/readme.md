@@ -1,6 +1,9 @@
 Loop Practice #4
 ===============
 
+Difficulty - 3/5
+---------
+
 Requirements
 ----------
 For each problem below, write a set of nested loops that prints the given output. Some of the problems will require you to write if statements in the loops. Assume a global array called months is defined as follows:

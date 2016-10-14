@@ -1,6 +1,9 @@
 Infinite Agenda
 =============
 
+Difficulty - 5/5
+---------
+
 Objective
 ----------
 

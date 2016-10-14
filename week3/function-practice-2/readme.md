@@ -1,6 +1,9 @@
 Function Practice #2
 ==============
 
+Difficulty - 2/5
+---------
+
 Complete the following function practice problems.
 <em>Do not use regex or underscore.</em> All problems except #6 require you to return the result. Make sure that you have a proper return statement and then console.log the result outside the function.
 

@@ -1,6 +1,9 @@
 Iterated Prisoner's Dilemma
 ==============
 
+Difficulty - 3/5
+---------
+
 Skills
 ----------
 - Writing callback functions

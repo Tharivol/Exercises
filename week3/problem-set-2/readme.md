@@ -1,6 +1,9 @@
 Problem Set #2
 ============
 
+Difficulty - 2/5
+---------
+
 Requirements
 ---------
 - Write a function firstReverse that takes a single string parameter and returns the string in reverse order.

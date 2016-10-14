@@ -1,6 +1,9 @@
 Loop Practice #1
 ===============
 
+Difficulty - 2/5
+---------
+
 Requirements
 -----------
 For each problem below, write a loop that prints the given output.

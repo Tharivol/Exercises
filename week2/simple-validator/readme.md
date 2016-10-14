@@ -1,6 +1,9 @@
 Simple Validator
 ===============
 
+Difficulty - 3/5
+---------
+
 Resources
 --------
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference">Mozilla Javascript Reference</a> - Good general Javascript reference containing information about specific javascript language constructs, keywords, types, etc.)

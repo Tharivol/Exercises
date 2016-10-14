@@ -1,6 +1,9 @@
 HTML2a: CSS Modularity I
 ===================
 
+Difficulty - 3/5
+---------
+
 Skills
 ------
 - CSS Architecture

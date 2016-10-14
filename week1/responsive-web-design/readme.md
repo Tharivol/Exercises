@@ -1,6 +1,10 @@
 HTML3: Responsive Web Design
 =====================
 
+Difficulty - 4/5
+---------
+
+
 Skills
 ----------
 - Media Queries

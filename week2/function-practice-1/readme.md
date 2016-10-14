@@ -1,6 +1,9 @@
 Function Practice #1
 ===============
 
+Difficulty - 2/5
+---------
+
 Requirements
 ------------
 

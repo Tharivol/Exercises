@@ -1,6 +1,10 @@
 JS7: Mad Metrics
 ==============
 
+Difficulty - 5/5
+---------
+
+
 Skills
 ----------
 - event handling

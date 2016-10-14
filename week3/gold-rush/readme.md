@@ -1,6 +1,9 @@
 Gold Rush
 ==========
 
+Difficulty - 4/5
+---------
+
 Objective
 ---------
 Build a user interface that allows gold prospectors to mark gold discoveries on a map.

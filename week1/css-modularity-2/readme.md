@@ -1,6 +1,9 @@
 HTML2b: CSS Modularity II
 ===========
 
+Difficulty - 3/5
+---------
+
 Requirements
 --------
 Write the CSS necessary to render the following components, following the instructions in Part I. Use the given starter code and copy to your own directory.

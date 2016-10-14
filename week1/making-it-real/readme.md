@@ -1,6 +1,9 @@
 HTML4: Making It Real
 ================
 
+Difficulty - 3/5
+---------
+
 Objective
 ----------
 Time to test your HTML/CSS skills! A designer has put together a sample blog post page for you to build. Try to get your implementation as close to the design as possible. Use proper HTML5 tags, classes, ids, and get fancy with your CSS.
