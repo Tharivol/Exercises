@@ -1,9 +1,8 @@
 Browser JS Basics
 ==========
 
-Difficulty
+Difficulty - 1/5
 ---------
-1 / 5
 
 Skills
 ----------
