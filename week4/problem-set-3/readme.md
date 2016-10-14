@@ -1,6 +1,9 @@
 Problem Set #3
 =============
 
+Difficulty - 1/5
+---------
+
 Background
 -----------
 Being a developer is all about solving problems.  This exercise is designed to make you think about patterns in data and how you can use code to manipulate those patterns to generate new or transformed data.

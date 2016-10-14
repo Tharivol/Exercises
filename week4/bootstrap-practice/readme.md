@@ -1,6 +1,9 @@
 Bootstrap Practice
 =============
 
+Difficulty - 2/5
+---------
+
 Skills
 -----------
 - HTML

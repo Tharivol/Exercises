@@ -1,6 +1,9 @@
 Inspirational Quotes
 ================
 
+Difficulty - 3/5
+---------
+
 Skills
 --------
 - Binding data to the DOM

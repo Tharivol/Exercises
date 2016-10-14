@@ -1,6 +1,9 @@
 Wildfire
 =========
 
+Difficulty - 3/5
+---------
+
 Skills
 -------
 - Bootstrap buttons
