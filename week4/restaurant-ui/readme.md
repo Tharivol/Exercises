@@ -1,6 +1,9 @@
 Restaurant UI
 ==========
 
+Difficulty - 4/5
+---------
+
 Skills
 -------
 - Angular Factory

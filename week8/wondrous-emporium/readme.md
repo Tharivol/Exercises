@@ -1,6 +1,9 @@
 The Wondrous Emporium
 =============
 
+Difficulty - 5/5
+---------
+
 Objective
 ----------
 You are a purveyor of fine wares and goods! It's time for you to enter the modern world of technology and take to the web to share your products. You need to create an online store front using Angular, Express, and MongoDB.

@@ -1,6 +1,9 @@
 Restaurant Objects
 ===============
 
+Difficulty - 3/5
+---------
+
 Skills
 ---------
 - Object Constructors

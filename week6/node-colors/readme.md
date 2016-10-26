@@ -1,6 +1,9 @@
 Node Colors
 ==========
 
+Difficulty - 2/5
+---------
+
 Skills
 -------
 - Command Line Node

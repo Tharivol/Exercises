@@ -1,6 +1,9 @@
 Online Job Application
 =========
 
+Difficulty - 5/5
+---------
+
 Objective
 --------
 You are the CTO of Omega 3 Studios. You need to hire some badass web developers, and you decide to create an online job application.

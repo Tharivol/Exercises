@@ -1,6 +1,9 @@
 Hide-A-Form
 ==========
 
+Difficulty - 3/5
+---------
+
 Objective
 ----------
 

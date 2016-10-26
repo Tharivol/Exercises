@@ -1,6 +1,9 @@
 Loop Practice #3
 ===============
 
+Difficulty - 2/5
+---------
+
 Requirements
 ----------
 For each problem below, write a loop that prints the given output. Some of the problems will require you to write an if statement in the loop. Assume a global array called students is defined as follows:

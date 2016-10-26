@@ -1,6 +1,9 @@
 Problem Set #1
 =============
 
+Difficulty - 2/5
+---------
+
 Requirements
 --------
 

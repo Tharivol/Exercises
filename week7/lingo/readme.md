@@ -1,6 +1,10 @@
 Lingo
 =======
 
+Difficulty - 3/5
+---------
+
+
 Objective
 ---------
 Create a web app that helps people learn a new language, utilizing a dynamic quiz system that allows the user to practice and test their understanding.

@@ -1,6 +1,9 @@
 Loop Practice #2
 ===========
 
+Difficulty - 1/5
+---------
+
 Requirements
 ---------
 For each problem below, write a loop that prints the given output. Assume a global array called animals is defined as follows:

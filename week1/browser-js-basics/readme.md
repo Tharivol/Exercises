@@ -1,6 +1,9 @@
 Browser JS Basics
 ==========
 
+Difficulty - 1/5
+---------
+
 Skills
 ----------
 - script tag

@@ -1,6 +1,9 @@
 Final Project Proposal
 ===================
 
+Difficulty - 3/5
+---------
+
 
 Objective
 ---------

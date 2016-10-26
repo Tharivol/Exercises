@@ -1,6 +1,9 @@
 Midterm Project Proposal
 =================
 
+Difficulty - 3/5
+---------
+
 Objective
 ------------
 Write a proposal for an independent project which you will design and implement over about 4 days. The purpose of this proposal is to formulate your idea and articulate the requirements of your application.

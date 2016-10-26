@@ -1,6 +1,9 @@
 Signup Form
 ==========
 
+Difficulty - 3/5
+---------
+
 Objective
 ----------
 Create an express app that presents the user with a signup form

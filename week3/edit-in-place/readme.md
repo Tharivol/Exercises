@@ -1,6 +1,9 @@
 Edit in Place
 ===========
 
+Difficulty - 3/5
+---------
+
 Objective
 ---------
 Create a user profile that can be edited in-place.

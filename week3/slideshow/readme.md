@@ -1,6 +1,9 @@
 Slideshow
 ========
 
+Difficulty - 4/5
+---------
+
 Objective
 --------
 Create a slideshow from a set of images.

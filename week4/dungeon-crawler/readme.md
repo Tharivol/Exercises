@@ -1,6 +1,9 @@
 Dungeon Crawler
 ===========
 
+Difficulty - 5/5
+---------
+
 Skills
 --------
 - Object-Oriented Programming

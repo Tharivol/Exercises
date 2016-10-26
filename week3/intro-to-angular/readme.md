@@ -1,6 +1,9 @@
 Intro to Angular
 ===========
 
+Difficulty - 1/5
+---------
+
 Skills
 --------
 - Angular

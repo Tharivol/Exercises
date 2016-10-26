@@ -1,6 +1,9 @@
 Problem Set #6
 ===========
 
+Difficulty - 2/5
+---------
+
 Requirements
 ------------
 

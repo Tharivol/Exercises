@@ -1,6 +1,9 @@
 Card Generator
 ===========
 
+Difficulty - 4/5
+---------
+
 Skills
 --------
 - Modeling Data

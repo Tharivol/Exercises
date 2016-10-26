@@ -1,6 +1,9 @@
 Learn You Node
 ==========
 
+Difficulty - 1/5
+---------
+
 Skils
 -------
 - Command Line Node

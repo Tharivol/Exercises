@@ -1,6 +1,9 @@
 Starcraft Rankings
 ===========
 
+Difficulty - 5/5
+---------
+
 Objective
 ---------
 Write a player ranking page for a StarCraft tournament community. The focus of the page is a large data table that displays statistics about tournament players, and provide tools for sorting and filtering the data. You can use the provided dummy data.

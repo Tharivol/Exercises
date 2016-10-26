@@ -1,6 +1,9 @@
 HTML1: Card Flip
 ==============
 
+Difficulty - 5/5
+---------
+
 Things to Know
 ----------
 - CSS Syntax

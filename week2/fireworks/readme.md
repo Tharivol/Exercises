@@ -1,6 +1,9 @@
 JS Mega Bonus: Fireworks
 ==============
 
+Difficulty - 6/5
+---------
+
 Skills
 ----------
 - animation
@@ -19,8 +22,9 @@ Requirements
 - `launchRocket` should create a div at the bottom-center of the page, representing a rocket. Immediately after being created, the rocket should 'fly' upwards, and it should appear to be affected by gravity. You can dynamically affect the position of the rocket with javascript, e.g. 
 ```
 var rocket = document.createElement('div')
-rocket.style.left   = 50vw;
-rocket.style.bottom = 0vh;
+rocket.style.position = 'absolute';
+rocket.style.left     = 50vw;
+rocket.style.bottom   = 0vh;
 ```
 - The initial angle and velocity of the rocket should be set randomly within a predefined range, such that if multiple rockets are launched, they will not follow the same trajectory, but they should all stay visible on the page.
 - The rocket should spin at a random speed in a random direction.

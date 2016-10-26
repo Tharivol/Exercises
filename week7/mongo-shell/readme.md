@@ -1,6 +1,9 @@
 Mongo Shell
 ==========
 
+Difficulty - 1/5
+---------
+
 Objective
 -----------
 Become familiar with Mongo Shell commands

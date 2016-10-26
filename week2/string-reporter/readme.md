@@ -1,6 +1,9 @@
 String Reporter
 ===========
 
+Difficulty - 1/5
+---------
+
 Resources
 ----------
 - <a href="http://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm">JS - Common Built In Functions</a>

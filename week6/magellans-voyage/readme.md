@@ -1,6 +1,9 @@
 Magellan's Voyage
 ==========
 
+Difficulty - 2/5
+---------
+
 <img src="https://ru-student-site.s3.amazonaws.com/magellan.jpg">
 
 Objective
