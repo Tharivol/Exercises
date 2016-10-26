@@ -13,4 +13,9 @@ Style the given HTML to match the following screenshot. It doesn't need to be pi
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<img src="https://ru-student-site.s3.amazonaws.com/css-modularity-prototype-part2.png">
+<img src="./img/CSS Modularity-1.png">
+<img src="./img/CSS Modularity-2.png">
+<img src="./img/CSS Modularity-3.png">
+<img src="./img/CSS Modularity-4.png">
+<img src="./img/CSS Modularity-5.png">
+
