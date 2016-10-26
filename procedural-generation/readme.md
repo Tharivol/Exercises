@@ -27,28 +27,16 @@ Room Types
 Requirements
 ----------
 - Create an algorithm to generate floor plans.  These floor plans must follow certain conditions :
-    - All rooms can possible have 4 connections (North, South, East, West)
+    - All rooms can possibly have up to 4 connections (North, South, East, West)
     - Must use at least one `Bedroom`, `Bathroom`, and `Kitchen`.  These are the bare necessities to have in a house.
     - `Hallway`s can only connect with one other `Hallway`.
     - `Bathroom`s may only be connected to `Bedroom`s, `Hallway`s, and `Living Rooms`.
     - `Bathroom`s cannot have more than 2 connections.
     - Only one `Patio` can be part of the floor plan and can only be connected to a `Living Room` or `Bedroom`.
     - A `Living Room` may be connected to any other room.
-
-
-
-
-
-
-
-
-
-
-
-
+    - A floorplan should have between 3-8 rooms.
 
 
 Bonus
 -----------
-Part I: CSS Framework
-- Use a CSS framework to make your storefront look good / responsive and help you handle the layout of the Magic cards
+Make a front-end to visually represent the floor plan
