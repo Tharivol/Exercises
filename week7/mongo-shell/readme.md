@@ -26,7 +26,7 @@ Requirements
 
 Part I
 -------
-- Start Mongo on your machine sudo mongod. Keep this tab running as long as you are interacting with the database.
+- Start Mongo on your machine with `sudo mongod`. Keep this tab running as long as you are interacting with the database.
 - In a separate Terminal tab, start Mongo Shell: mongo
 - Switch the current database to "school": use school
 - Add 3 students to your students collection, make one of the students you.
