@@ -51,7 +51,7 @@ Part II
 
 Bonus
 --------
-Add the countries from the Countries.json sample data to a Mongo collection. Use the <code>mongoimport</code> command, described in the documentation and demonstrated in this example. After importing successfully, confirm that you can make the following queries:
+Add the countries from the <a href="countries.json">Countries.json</a> sample data to a Mongo collection. Use the <code>mongoimport</code> command, described in the documentation and demonstrated in this example. After importing successfully, confirm that you can make the following queries:
 
 - <code>findOne</code> country that matches a given name.
 - <code>find</code> countries that contain part of a string in their name.
