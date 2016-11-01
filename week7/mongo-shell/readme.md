@@ -26,7 +26,7 @@ Requirements
 
 Part I
 -------
-- Start Mongo on your machine sudo mongod. Keep this tab running as long as you are interacting with the database.
+- Start Mongo on your machine with `sudo mongod`. Keep this tab running as long as you are interacting with the database.
 - In a separate Terminal tab, start Mongo Shell: mongo
 - Switch the current database to "school": use school
 - Add 3 students to your students collection, make one of the students you.
@@ -51,7 +51,7 @@ Part II
 
 Bonus
 --------
-Add the countries from the Countries.json sample data to a Mongo collection. Use the <code>mongoimport</code> command, described in the documentation and demonstrated in this example. After importing successfully, confirm that you can make the following queries:
+Add the countries from the <a href="countries.json">Countries.json</a> sample data to a Mongo collection. Use the <code>mongoimport</code> command, described in the documentation and demonstrated in this example. After importing successfully, confirm that you can make the following queries:
 
 - <code>findOne</code> country that matches a given name.
 - <code>find</code> countries that contain part of a string in their name.
