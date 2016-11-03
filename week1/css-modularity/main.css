@@ -1,1 +1,100 @@
 /* ADD YOUR STYLES HERE */
+.imagespacing	{
+	padding: 20px;
+}
+
+.inlineblock	{
+	display: inline-block;
+	vertical-align: top;
+	padding: 20px;
+}
+
+.thirdWords	{
+	padding-left: 300px;
+}
+.sucks	{
+	
+	border: 5px solid red;
+}
+
+.alsosucks	{
+	padding: 30px;
+	
+	position: relative;
+}
+.button1	{
+	background-color: red;
+	border-radius: 10px;
+	font-size: 20px;
+	text-decoration: none;
+}
+.button2	{
+	background-color: blue;
+	border-radius: 10px;
+	font-size: 15px;
+	text-decoration: none;
+
+}
+.button3	{
+	background-color: green;
+	border-radius: 10px;
+	font-size: 50px;
+	text-decoration: none;
+
+}
+.Button1	{
+	display: inline-block;
+	background-color: yellow;
+	border-radius: 10px;
+	font-size: 15px;
+	text-decoration: none;
+	width: 100px;
+   	padding: 5px;
+   	text-align: center;
+
+   }
+.Button2	{
+	display: inline-block;
+	background-color: yellow;
+	border-radius: 10px;
+	font-size: 15px;
+	text-decoration: none;
+	border: none;
+	width: 100px;
+   	padding: 5px;
+}
+.Button3	{
+	display: inline-block;
+	background-color: yellow;
+	border-radius: 10px;
+	font-size: 15px;
+	text-decoration: none;
+	border: none;
+	width: 100px;
+   	padding: 5px;
+}
+
+.hype {
+	display: inline-block;
+	background-color: yellow;
+	border-radius: 10px;
+	font-size: 15px;
+	text-decoration: none;
+	border: none;
+	width: 100px;
+   	padding: 5px;
+   	text-align: center;
+
+}
+.hype:hover {
+	background-color: pink;
+	transition: .3s;
+}
+
+
+
+
+
+
+
+
